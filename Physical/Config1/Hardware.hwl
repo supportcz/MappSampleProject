@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BR.AS.HardwareTopology Version="0.0.0.1">
+  <Modules>
+    <Module Name="X20CP1585" Type="X20CP1585" X="110" Y="110" />
+    <Module Name="8EI8X8MWT10.0500-1" Type="8EI8X8MWT10.0500-1" X="264" Y="264" />
+    <Module Name="8LSA25.D9060S200-3" Type="8LSA25.D9060S200-3" X="264" Y="594" />
+  </Modules>
+  <Links>
+    <Link From="8EI8X8MWT10.0500-1" To="X20CP1585" FromPort="PLK1" ToPort="IF3" IsRoutedByUser="False">
+      <Point X="271.699982" Y="274.5" />
+      <Point X="271.699982" Y="274.5" />
+      <Point X="263.699982" Y="274.5" />
+      <Point X="166" Y="274.5" />
+      <Point X="166" Y="210" />
+      <Point X="166" Y="197" />
+      <Point X="166" Y="197" />
+    </Link>
+    <Link From="8EI8X8MWT10.0500-1" To="8LSA25.D9060S200-3" FromPort="MT1" ToPort="MT" IsRoutedByUser="False">
+      <Point X="290.6" Y="373.9" />
+      <Point X="290.6" Y="373.9" />
+      <Point X="310.6" Y="373.9" />
+      <Point X="318" Y="373.9" />
+      <Point X="318" Y="535" />
+      <Point X="313.5" Y="535" />
+      <Point X="313.5" Y="593.100037" />
+      <Point X="313.5" Y="600.100037" />
+      <Point X="313.5" Y="600.100037" />
+    </Link>
+    <Link From="8LSA25.D9060S200-3" To="8EI8X8MWT10.0500-1" FromPort="EC" ToPort="EC1" IsRoutedByUser="False">
+      <Point X="285.5" Y="600.100037" />
+      <Point X="285.5" Y="600.100037" />
+      <Point X="285.5" Y="593.100037" />
+      <Point X="285.5" Y="585" />
+      <Point X="325" Y="585" />
+      <Point X="325" Y="366" />
+      <Point X="311" Y="366" />
+      <Point X="289" Y="366" />
+      <Point X="289" Y="366" />
+    </Link>
+  </Links>
+  <InfoElements />
+</BR.AS.HardwareTopology>

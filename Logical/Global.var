@@ -1,0 +1,5 @@
+VAR
+	gAxis01 : ACP10AXIS_typ;
+	gAxis02 : ACP10AXIS_typ;
+	gAxis03 : ACP10AXIS_typ;
+END_VAR
