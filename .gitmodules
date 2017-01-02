@@ -1,0 +1,6 @@
+[submodule "Logical/MpAxisSample"]
+	path = Logical/MpAxisSample
+	url = https://github.com/supportcz/MpAxisSample.git
+[submodule "Logical/MpRecipeSample"]
+	path = Logical/MpRecipeSample
+	url = https://github.com/supportcz/MpRecipeSample.git
