@@ -8,8 +8,5 @@
     <Object Type="Package">MpRecipeSample</Object>
     <Object Type="Package">MpAxisSample</Object>
     <Object Type="DataObject" Language="Ett">acp10etxen</Object>
-    <Object Type="Package" Description="gAxis01obj">gAxis01obj</Object>
-    <Object Type="Package" Description="gAxis02obj">gAxis02obj</Object>
-    <Object Type="Package" Description="gAxis03obj">gAxis03obj</Object>
   </Objects>
 </Package>

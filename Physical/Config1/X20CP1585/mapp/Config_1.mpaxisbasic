@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Configuration>
-  <Element ID="gAxisBasic" Type="mpaxisbasic">
+  <Element ID="gAxisBasic01" Type="mpaxisbasic">
     <Group ID="MpAxisComponent">
       <Property ID="VersionAcp10" Value="3.15.1" />
     </Group>
